@@ -20,7 +20,7 @@ const App = () => {
           <Route exact path="/" element={<Index/>} />
           <Route exact path="/lyrics/track/:id" element={<Lyrics/>} />
           </Routes>
-        
+
           </div>
         </>
       </Router>
