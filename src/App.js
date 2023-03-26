@@ -17,8 +17,8 @@ const App = () => {
           <Navbar />
           <div className="container">
           <Routes>
-          <Route exact path="/" element={<Index/>} />
-          <Route exact path="/lyrics/track/:id" element={<Lyrics/>} />
+          <Route exact path="lyricsearcher/" element={<Index/>} />
+          <Route exact path="lyricsearcher/lyrics/track/:id" element={<Lyrics/>} />
           </Routes>
 
           </div>
