@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.7c95ce74.js",
-    "static/js/787.893be05b.chunk.js": "/static/js/787.893be05b.chunk.js",
-    "index.html": "/index.html",
-    "main.7c95ce74.js.map": "/static/js/main.7c95ce74.js.map",
-    "787.893be05b.chunk.js.map": "/static/js/787.893be05b.chunk.js.map"
+    "main.css": "/lyricsearcher/static/css/main.31d6cfe0.css",
+    "main.js": "/lyricsearcher/static/js/main.0c413073.js",
+    "static/js/787.893be05b.chunk.js": "/lyricsearcher/static/js/787.893be05b.chunk.js",
+    "index.html": "/lyricsearcher/index.html",
+    "main.0c413073.js.map": "/lyricsearcher/static/js/main.0c413073.js.map",
+    "787.893be05b.chunk.js.map": "/lyricsearcher/static/js/787.893be05b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7c95ce74.js"
+    "static/js/main.0c413073.js"
   ]
 }
