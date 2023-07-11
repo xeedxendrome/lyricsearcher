@@ -3,24 +3,13 @@ import axios from "axios";
 
 export const Context = React.createContext();
 
-// const reducer = (state, action) => {
-//   switch (action.type) {
-//     case 'SEARCH_TRACKS':
-//       return {
-//         ...state,
-//         track_list: action.payload,
-//         heading: 'Search Results'
-//       };
-//     default:
-//       return state;
-//   }
-// };
+
 
 export function ContextController({ children }) {
   let intialState = {
     track_list: [],
     heading: ""
-    // dispatch: action => this.setState(state => reducer(state, action))
+
   };
 
   const [state, setState] = useState(intialState);
