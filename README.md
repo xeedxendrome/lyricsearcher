@@ -1,5 +1,5 @@
-A website built with react which uses the Context API to search and retrieve songs with lyrics starting from a given
-phrase and also display top 10 tracks of the country.
+A website built with React uses the Context API to search and retrieve songs with lyrics starting from a given
+phrase and also display the top 10 tracks of the country.
 
 <div align="center">
     <img src="/screenshots/base.png" width="400px"</img> 
@@ -7,9 +7,9 @@ phrase and also display top 10 tracks of the country.
 
 
 ## How to use
-- Type the lyric in the search pannel.
+- Type the lyric in the search panel.
 - Then click on the Get Track Lyrics button.
-- To view full lyric,click on the View Lyric button on the song.
+- To view full lyric, click on the View Lyric button on the song.
 
 <div align="center">
     <img src="/screenshots/ba1.png" width="400px"</img> 
